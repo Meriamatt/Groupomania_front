@@ -120,7 +120,6 @@ export class CreatePostComponent implements OnInit {
             this.loading = false;
             this.dialogRef.close();
             this.postService.getPosts();
-            //this.router.navigate(['/posts']);
           }),
           catchError((error) => {
             console.error(error);
