@@ -14,7 +14,7 @@
 
 - clickez sur le boutton Code et copier l'URL du répértoire.
 
-- Dans votre terminal de commande changez la direction vers la location dans laquelle vous voulez effectuer le clône.
+- Dans votre terminal de commandes changez la direction vers la location dans laquelle vous voulez effectuer le clône.
 
 - tapez git clone et l'URL que vous avez copié précédemment et appuyez sur Entrer.
 
@@ -25,10 +25,6 @@
 npm install
 
 (cette commande  installe toutes les dépendences nécessaires pour le fonctionnement du projet)
-
-exécuter les commandex suivantes:
-
-npm install
 
 ### Vous pouvez ensuite lancer le serveur avec la commande:
 
